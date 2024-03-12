@@ -1,0 +1,26 @@
+h2{
+    background-color: blue;
+    padding: 50px;
+
+}
+
+strong{
+    color: blue;
+}
+/*per evidenziare una porzione di testo */
+span{
+    background-color: yellow;  
+}
+
+th{
+    color: antiquewhite;
+    background-color: rgb(45, 92, 178);
+}
+
+tbody{
+    background-color: cadetblue;
+}
+
+.second-row{
+    background-color: antiquewhite;
+}
